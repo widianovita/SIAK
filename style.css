@@ -1,0 +1,23 @@
+.nav-link:hover{
+	background-color: #6f42c1;
+}
+
+.display-4 {
+	font-weight: bold;
+}
+
+.card-body-icon {
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 4px;
+	opacity: 0.4;
+	font-size: 90px;
+}
+
+.container {
+	background-image: url('gambar/bg.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
